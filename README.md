@@ -2,13 +2,13 @@ This project aims to de-congest the national highways by analyzing the road traf
 Create a data pipe line that collects the streaming data and loads it into a database.
 
 Objectives:
-Create a database and table using PostgreSQL
-Start Zookeeper
-Start Kafka server
-Install Kafka python driver
-Create topic named 'toll' in Kafka
-Create toll trafic generator
-Modify the streaming data generator to steam to toll topic
-Create streaming data connecting to local database
-Save streaming data to csv format
-Verify if data is stored in the database
+#### Create a database and table using PostgreSQL
+#### Start Zookeeper
+#### Start Kafka server
+#### Install Kafka python driver
+#### Create topic named 'toll' in Kafka
+#### Create toll trafic generator
+#### Modify the streaming data generator to steam to toll topic
+#### Create streaming data connecting to local database
+#### Save streaming data to csv format
+#### Verify if data is stored in the database
